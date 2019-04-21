@@ -1,6 +1,6 @@
 CÁC BƯỚC PUSH
 // Code clone git
-https://github.com/syhiendk35/syhiendk35.github.io.git
+git clone https://github.com/syhiendk35/syhiendk35.github.io.git
 
 // ADD
 git add --all
