@@ -1,0 +1,8 @@
+CÁC BƯỚC PUSH
+// Code clone git
+https://github.com/syhiendk35/syhiendk35.github.io.git
+
+// ADD
+git add --all
+git commit -m "first commit"
+git push -u origin master
