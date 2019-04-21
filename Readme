@@ -6,3 +6,11 @@ https://github.com/syhiendk35/syhiendk35.github.io.git
 git add --all
 git commit -m "first commit"
 git push -u origin master
+
+
+Try this git command
+
+git push origin master --force
+or short of force -f
+
+git push origin master -f
