@@ -19,3 +19,6 @@ git push origin master -f
 git checkout gh-pages
 git merge master
 git push origin gh-pages
+
+#nếu muôn đổi từ master sang
+git push -f origin master:gh-pages
