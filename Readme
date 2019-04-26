@@ -4,7 +4,7 @@ git clone https://github.com/syhiendk35/syhiendk35.github.io.git
 
 // ADD
 git add --all
-git commit -m "first commit"
+git commit -m "updated site"
 git push -u origin master
 
 
