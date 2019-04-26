@@ -14,3 +14,8 @@ git push origin master --force
 or short of force -f
 
 git push origin master -f
+
+#Đổi sang gh-page
+git checkout gh-pages
+git merge master
+git push origin gh-pages
