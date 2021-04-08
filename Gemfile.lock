@@ -96,7 +96,6 @@ DEPENDENCIES
   jekyll
   jekyll-admin (= 0.9.0)
   jekyll-feed
-  rack
   tzinfo (~> 1.2)
   tzinfo-data
   wdm
